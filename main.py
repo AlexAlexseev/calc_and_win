@@ -1,4 +1,4 @@
-from module import run_game
+midfrom module import run_game
 
 INTRO = '''РАССЧИТАЙ И ПОБЕДИ!
 Загрузка...
